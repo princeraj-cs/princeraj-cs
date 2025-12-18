@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Prince👋
 
-<!--
-**princeraj-cs/princeraj-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Student at **IIT Madras BS in Data Science & Applications**  
+- 💻 Learning **Python, C++, AI/ML 
+- 🌱 Building projects to sharpen problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats  
+![WixCS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeraj-cs&show_icons=true&theme=default&hide_border=true)  
+
+---
+
+⭐ *Code. Learn. Build.*
