@@ -1,11 +1,28 @@
-# Hi, I'm Prince👋
+# Prince Raj
 
-- 🎓 Student at **IIT Madras BS in Data Science & Applications**  
-- 💻 Learning **Python, C++, AI/ML 
-- 🌱 Building projects to sharpen problem-solving skills  
-
----
+🎓 Student at **IIT Madras**  
+📊 BS in **Data Science & Applications**
 
 ---
 
-⭐ *Code. Learn. Build.*
+## Tech
+- Python  
+- HTML, CSS  
+
+---
+
+## Tools
+- VS Code  
+- PyCharm  
+- Jupyter Notebook  
+
+---
+
+## Focus
+- Data Science fundamentals  
+- Problem solving  
+- Project-based learning  
+
+---
+
+GitHub: https://github.com/princeraj-cs
