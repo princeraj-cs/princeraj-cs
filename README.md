@@ -6,26 +6,15 @@
 I am a motivated learner passionate about **Computer Science, Data Science, and Software Development**.  
 Currently building strong fundamentals through projects, coursework, and consistent practice.
 
----
 
-## 🚀 About Me
-- 📚 Pursuing **BS in Data Science & Applications** from **IIT Madras**
-- 🧠 Interested in **Data Science, Backend Development & Problem Solving**
-- 🛠️ Actively working on projects to build real-world skills
-- 🎯 Goal: Grow into a skilled engineer through discipline and hands-on learning
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/princerajcs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_princeraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princerajcs07) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PrinceCS07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princeraj.cs07@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=princeraj-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=princeraj-cs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj-cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💻 Tech Stack
-- **Languages:** Python, HTML, CSS  
-- **Currently Learning:** Data Science fundamentals, backend concepts, algorithms
-
----
-
-## 🧰 Tools & Environment
-- VS Code  
-- PyCharm  
-- Jupyter Notebook  
-
-
-⭐ *“Consistency beats talent when talent isn’t consistent.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
