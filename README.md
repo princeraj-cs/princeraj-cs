@@ -18,5 +18,5 @@ Currently building strong fundamentals through projects, coursework, and consist
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-![](https://komarev.com/ghpvc/?princeraj-cs=your-github-princeraj-cs)
+![](https://komarev.com/ghpvc/?username=princeraj-cs&color=green)
 
