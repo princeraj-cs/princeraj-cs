@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=200&section=header&text=Prince%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Software%20Development%20%7C%20IIT%20Madras&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=BS+in+Data+Science+%40+IIT+Madras;Building+with+Python+%2C+JS+%26+C%2B%2B;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +24,7 @@ focus: [ Computer Science, Data Science, Software Development ]
 currently:
   - 🔭 Building strong fundamentals through projects & consistent practice
   - 🌱 Deepening my knowledge of Data Science & ML workflows
-  - 🤝 Open to collaborating on Python / JS / C++ projects
+  - 🤝 Open to collaborating on Python / JS  projects
   - 💬 Ask me about Data Science, Web Dev, or DSA
 ```
 
